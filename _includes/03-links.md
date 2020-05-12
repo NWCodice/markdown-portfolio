@@ -1,1 +1,1 @@
-[Github profile] (https://github.com/NWCodice)
+[Github profile](https://github.com/NWCodice)
